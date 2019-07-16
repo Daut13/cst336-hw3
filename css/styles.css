@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	background-color: #00a8c5;
+}
+
+form {
+	background-color: white;
+	width: 600px;
+	height: auto;
+	margin: 25px auto;
+	padding: 20px;
+	border: 5px black;
+	border-style: groove;
+	font-size: 1.1em;
+	border-radius: 20px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+	color: white;
+	font-size: 3.0em;
+	text-decoration: underline;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#extraInfo {
+	font-size: 0.8em;
+	font-family: 'Quicksand', sans-serif;
+}
